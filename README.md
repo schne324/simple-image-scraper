@@ -11,6 +11,7 @@
   "https://foo.com/baz.png",
 ]
 ```
+* install dependencies: `npm install` (or if yarn installed `yarn install`)
 
 ## Running the scraper
 
